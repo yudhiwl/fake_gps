@@ -30,10 +30,5 @@ FITUR DANBOLL MAPS
 Dll
 ----------------------------------------------------
 
-Regist Fake GPS, 30 ribu - bulanan 30 ribu
-Regist MOD Shopee, Per Bulan 30 ribu - bulanan 30 ribu
-Regist paket Shopee MOD + Fake GPS, 40 ribu - bulanan 50 ribu
--------------------------------------------------------------
-
-Join Group Telegram
+Join Group Telegram untuk info selanjutnya
 https://t.me/thedanboll
